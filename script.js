@@ -17,10 +17,6 @@ function randomRGB(){
 	return arr;
 }
 
-function randomGradient(){
-	
-}
-
 input1.addEventListener("input", addGradient);
 
 input2.addEventListener("input", addGradient);
